@@ -1,4 +1,4 @@
-
+TITLE: Module de cours test 1 (Titre long)
 # Comment utiliser Esc@Pad pour produire un support de cours multi-plateformes
 
 ## Structure globale d'un cours Culture Numérique
