@@ -1,4 +1,5 @@
 TITLE: Module de cours test 1 (Titre long)
+MENUTITLE: Démo 
 # Comment utiliser Esc@Pad pour produire un support de cours multi-plateformes
 
 ## Structure globale d'un cours Culture Numérique
